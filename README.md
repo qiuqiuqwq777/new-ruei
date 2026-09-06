@@ -12,12 +12,12 @@ using ruei_exiled.hint;
 
 这是个示例
 
-显示"欢迎" 5秒
-
-var display = HintManager.Get(player);
-
-display.Show(new HintTag("a"), new TextHint(700, "欢迎"), 5f);
+显示5秒
+      var display = RueDisplay.Get(p);
+      display?.Show(new Tag("nuke_warning"),
+          new BasicElement(800, "12345678790"),
+          10f);
 
 其他方法
 
-new DynamicHint 方法
+new DynamicHint 动态显示

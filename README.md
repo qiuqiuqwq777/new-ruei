@@ -1,5 +1,5 @@
 # new-ruei
-
+这是SL/秘密实验室 Exiled插件lab也可以调用
 这是根据lab ruei制作的exiled插件
 
 用法和lab ruei的一样 

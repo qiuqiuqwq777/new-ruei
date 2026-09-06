@@ -8,7 +8,7 @@ new ruei可以和HintServiceMeow插件兼容
 
 ## 使用方法
 
-using ruei_exiled.hint;
+使用前加入引用才可以使用
 
 这是个示例
 

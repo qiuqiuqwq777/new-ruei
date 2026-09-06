@@ -16,11 +16,11 @@ new ruei可以和HintServiceMeow插件兼容
 
       var display = RueDisplay.Get(p);
       
-      display?.Show(new Tag("nuke_warning"),
+      display?.Show(new Tag("a"),
       
           new BasicElement(800, "12345678790"),
           
-          10f);
+          5f);
 
 其他方法
 

@@ -8,11 +8,16 @@ new ruei可以和HintServiceMeow插件兼容
 
 ## 使用方法
 
-使用前加入引用才可以使用
+使用前需要加入引用才可以使用
 
 这是个示例
 
 显示5秒
+using RueDisplay = ruei_exiled.hint.PlayerDisplay; 
+
+using BasicElement = ruei_exiled.hint.TextHint;
+
+using Tag = ruei_exiled.hint.HintTag;
 
       var display = RueDisplay.Get(p);
       

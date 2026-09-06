@@ -13,6 +13,7 @@ new ruei可以和HintServiceMeow插件兼容
 这是个示例
 
 显示5秒
+
 using RueDisplay = ruei_exiled.hint.PlayerDisplay; 
 
 using BasicElement = ruei_exiled.hint.TextHint;

@@ -12,7 +12,7 @@ using ruei_exiled.hint;
 
 这是个示例
 
-// 显示"欢迎" 5秒
+显示"欢迎" 5秒
 
 var display = HintManager.Get(player);
 

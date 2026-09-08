@@ -23,6 +23,4 @@ new ruei可以和HintServiceMeow插件兼容
           
           5f);
 
-其他方法
 
-new DynamicHint 动态显示

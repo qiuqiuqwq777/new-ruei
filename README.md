@@ -14,17 +14,12 @@ new ruei可以和HintServiceMeow插件兼容
 
 显示5秒
 
-using RueDisplay = ruei_exiled.hint.PlayerDisplay; 
 
-using BasicElement = ruei_exiled.hint.TextHint;
-
-using Tag = ruei_exiled.hint.HintTag;
-
-      var display = RueDisplay.Get(p);
+      var display = .PlayerDisplay.Get(p);
       
-      display?.Show(new Tag("a"),
+      display?.Show(new HintTag("a"),
       
-          new BasicElement(800, "12345678790"),
+          new TextHint(800, "12345678790"),
           
           5f);
 

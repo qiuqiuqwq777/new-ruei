@@ -15,7 +15,7 @@ new ruei可以和HintServiceMeow插件兼容
 显示5秒
 
 
-      var display = .PlayerDisplay.Get(p);
+      var display = .Hintt.Get(p);
       
       display?.Show(new HintTag("a"),
       
